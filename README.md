@@ -1,5 +1,7 @@
 # webtoon_solvis_assignment
-img<src=''>
+<img src="ss1.jpg" alt="Alt text" width="" height="500">
+<img src="ss2.jpg" alt="Alt text" width="" height="500">
+<img src="ss3.jpg" alt="Alt text" width="" height="500">
 A new Flutter project.
 
 ## Getting Started
